@@ -118,9 +118,7 @@
 	}
 
 	a {
-		-moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+		-moz-transition: color 0.2s ease-in-out, 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
 		color: #e89980;
@@ -243,7 +241,7 @@
 	}
 
 	.align-center {
-		text-align: center;
+		text-align: center ;
 	}
 
 	.align-right {
@@ -2014,7 +2012,7 @@
 /* Section/Article */
 
 	section.special, article.special {
-		text-align: center;
+		text-align: center ;
 	}
 
 	header p {
@@ -2046,15 +2044,16 @@
 
 	header.major {
 		padding: 1em 0;
-		text-align: center;
+		text-align: right ;
 	}
 
 		header.major h2 {
 			margin: 0;
-		}
-
+		} 
 		header.major p {
-			display: inline-block;
+ 
+
+text-align: center ;			display: inline-block;
 			border-top: solid 2px #e5e5e5;
 			color: #777;
 			margin: 1.5em 0 0 0;
