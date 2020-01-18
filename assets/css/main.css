@@ -3129,7 +3129,7 @@ text-align: center ;			display: inline-block;
 
 			.dropotron li.active > a, .dropotron li.active > span, .dropotron li:hover > a, .dropotron li:hover > span {
 				background: #e89980;
-				color: #ffffff;
+				color: #000000;
 			}
 
 		.dropotron.level-0 {
@@ -3241,7 +3241,7 @@ text-align: center ;			display: inline-block;
 
 			#main > header p {
 				border-top: solid 2px #e5e5e5;
-				color: #000000 ;
+				color: #1d1f1b;
 				display: inline-block;
 				font-style: normal;
 				margin: 1em 0 0 0;
