@@ -3710,7 +3710,7 @@ text-align: center ;			display: inline-block;
 						float: none;
 						margin: 2em 0 0 0 !important;
 						padding: 2em 0 0 0 !important;
-						width: 100%;
+						width: 10%;
 					}
 
 					.box.features .features-row:first-child section:first-child {
@@ -3721,7 +3721,7 @@ text-align: center ;			display: inline-block;
 
 				.box .image.featured {
 					margin-left: -2em;
-					width: calc(100% + 4em);
+					width: calc(10% + 2em);
 				}
 
 					.box .image.featured:first-child {
