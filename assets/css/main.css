@@ -156,13 +156,16 @@ h3 {
   font-size: 1.55em; }
 
 h4 {
-   text-align: center;
+   text-align: justify;
+    
   font-size: 1.1em; }
 
 h5 {
+    text-align: justify;
   font-size: 0.9em; }
 
 h6 {
+    
   font-size: 0.7em; }
 
 @media screen and (max-width: 1680px) {
