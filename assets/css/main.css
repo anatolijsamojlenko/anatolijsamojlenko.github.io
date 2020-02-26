@@ -153,7 +153,13 @@ h2 {
   font-size: 1.75em; }
 
 h3 {
-  font-size: 1.55em; }
+  font-size: 1.55em; 
+  font-weight: normal; /* Нормальное начертание */
+   } 
+   .select {
+    color: maroon; /* Цвет текста */
+    font-weight: 600; /* Жирное начертание */
+   }
 
 h4 {
    text-align: justify;
